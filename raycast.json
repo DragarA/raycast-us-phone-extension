@@ -1,0 +1,11 @@
+{
+    "commands": [
+      {
+        "name": "Generate Random US Phone Number",
+        "title": "Generate Random US Phone Number",
+        "mode": "view",
+        "arguments": []
+      }
+    ]
+  }
+  
